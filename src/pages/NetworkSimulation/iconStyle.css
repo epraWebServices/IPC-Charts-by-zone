@@ -1,0 +1,121 @@
+.ThermalGeneratorIcon {
+    background-image: url("./thermalGenerator.png");
+    width: 49px;
+    height: 49px;
+    background-size: 49px 49px;
+    border-radius: 50%;
+}
+.ThermalGeneratorSmallIcon {
+    background-image: url("./thermalGenerator.png");
+    width: 40px;
+    height: 40px;
+    background-size: 40px 40px;
+    border-radius: 50%;
+}
+.ThermalGeneratorOutIcon {
+    background-image: url("./thermalGenerator_out.png");
+    width: 49px;
+    height: 49px;
+    background-size: 49px 49px;
+    border-radius: 50%;
+}
+.RESGeneratorIcon {
+    background-image: url("./resGenerator.png");
+    width: 49px;
+    height: 49px;
+    background-size: 49px 49px;
+    border-radius: 50%;
+}
+.RESGeneratorSmallIcon {
+    background-image: url("./resGenerator.png");
+    width: 40px;
+    height: 40px;
+    background-size: 40px 40px;
+    border-radius: 50%;
+}
+.RESGeneratorOutIcon {
+    background-image: url("./resGenerator_out.png");
+    width: 49px;
+    height: 49px;
+    background-size: 49px 49px;
+    border-radius: 50%;
+}
+.ResidualLoadIcon {
+    background-image: url("./load.png");
+    width: 49px;
+    height: 49px;
+    background-size: 49px 49px;
+    border-radius: 50%;
+}
+.ResidualLoadSmallIcon {
+    background-image: url("./load.png");
+    width: 40px;
+    height: 40px;
+    background-size: 40px 40px;
+    border-radius: 50%;
+}
+.ResidualLoadOutIcon {
+    background-image: url("./load_out.png");
+    width: 49px;
+    height: 49px;
+    background-size: 49px 49px;
+    border-radius: 50%;
+}
+.p-inputnumber-input {
+    height: 2.75rem;
+    text-align: center !important;
+}
+
+.regionalMap {
+    cursor: grab !important;
+  }
+
+.Clickable {
+    cursor: pointer !important;
+  }
+.MapContainerDiv{
+    width: 100%;
+}
+
+.FormDivider1.ant-divider-with-text-center::before,
+.FormDivider1.ant-divider-with-text-center::after
+{
+    border-top: 1px solid red;
+}
+
+.FormDivider2.ant-divider-with-text-center::before,
+.FormDivider2.ant-divider-with-text-center::after
+{
+    border-top: 1px solid orange;
+}
+
+.FormDivider3.ant-divider-with-text-center::before,
+.FormDivider3.ant-divider-with-text-center::after
+{
+    border-top: 1px solid green;
+}
+
+.FormDivider4.ant-divider-with-text-center::before,
+.FormDivider4.ant-divider-with-text-center::after
+{
+    border-top: 1px solid purple;
+}
+.NetworkDataDialog.p-dialog .p-dialog-header .p-dialog-title {
+    text-align: center;
+}
+.ZoneResult{
+    background: none;
+    border: none;
+    padding: 0;
+    border-radius: 15px;
+    box-shadow: none;
+} 
+.ZoneResult::before{
+    display: none;
+} 
+
+.LineLoadingIcon{
+    width: 40px;
+    height: 40px;
+    background-size: 40px 40px;
+}

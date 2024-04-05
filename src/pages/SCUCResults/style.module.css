@@ -1,0 +1,49 @@
+.filedrop {
+    width: 100%;
+    max-width: 800px;
+    height: 60vh;
+    max-height: 200px;
+    cursor: pointer;
+
+  }
+  
+  .target {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='none' rx='16' ry='16' stroke='%238CDDEAFF' stroke-width='5' stroke-dasharray='6%2c 14' stroke-dashoffset='0' stroke-linecap='round'/%3e%3c/svg%3e");
+    border-radius: 16px;
+    padding: 20px;
+    color: #09bedb;
+    background-color: rgba(140, 221, 234, 0.2);
+    font-size: 18px;
+    transition: 0.3s ease-in;
+    
+  }
+  .icon {
+    fill: #09bedb;
+    margin-bottom: 16px;
+  }
+  
+  
+  .hidden {
+    display: none;
+  }
+  
+  .filedropDrag {
+    -webkit-box-shadow: 0px 0px 15px 0px #012831;
+    box-shadow: 0px 0px 15px 0px #012831;
+    transition: 0.3s ease-in;
+    background-color: #012831;
+  }
+  
+  .x {
+    margin-left: 8px;
+    font-size: 18px;
+    cursor: pointer;
+    color: red;
+  }
+  

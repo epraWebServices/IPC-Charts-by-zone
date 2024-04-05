@@ -1,0 +1,48 @@
+.legend {
+  text-align: left;
+  line-height: 18px;
+  color: rgb(85, 85, 85);
+  background-color:rgb(219, 204, 206)
+}
+.legend i {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin-right: 8px;
+  opacity: 0.7;
+}
+.legend .colorcircle {
+  border-radius: 50%;
+  width: 15px;
+  height: 15px;
+  margin-top: 0px;
+  opacity: 0.5;
+}
+.legend .colorcircle2 {
+  border-radius: 50%;
+  background-color: #008000;
+  border: 2px solid red;
+  width: 15px;
+  height: 15px;
+  margin-top: 0px;
+  opacity: 0.5;
+}
+.legend .line-1 {
+  transform: translateY(150%);
+  height: 4px;
+  background: red;
+}
+
+.legend .line-2 {
+  transform: translateY(150%);
+  height: 4px;
+  background: blue;
+}
+.legend .line-3 {
+  transform: translateY(150%);
+  height: 4px;
+  background: gray;
+}
+.pointer {
+  cursor: pointer;
+}

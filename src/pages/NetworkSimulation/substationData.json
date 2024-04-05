@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "id": 10,
+      "name": "Bus1",
+      "coordinates": [36, 26],
+      "generation":{
+        "Natural Gas":{"capacity":500,
+                "checked": false
+              },
+        "Import Coal":{"capacity":100,
+                        "checked": true
+                      }
+      }
+    },
+    {
+      "id": 11,
+      "name": "Bus2",
+      "coordinates": [38, 34],
+      "generation":{
+        "Solar":{"capacity":200,
+                "checked": true
+              }
+      }
+    },
+    {
+      "id": 3,
+      "name": "Bus3",
+      "coordinates": [38.5, 36],
+      "generation":{
+      }
+    },
+    {
+      "id": 4,
+      "name": "Bus4",
+      "coordinates": [40, 35],
+      "generation":{
+        "Wind":{"capacity":500,
+                "checked": true
+              },
+        "Hard Coal":{"capacity":200,
+          "checked": true
+        }
+      }
+    }    
+      
+    
+  ]
+}

@@ -1,0 +1,501 @@
+{
+    "lines": [
+        {
+            "id": 1,
+            "from_id": 3,
+            "to_id": 1,
+            "from": "North West Anatolia",
+            "to": "Thrace (TRAKYA)",
+            "name": "North West Anatolia - Thrace (TRAKYA)",
+            "coordinates": 
+            [
+                [40.783368512, 30.406868672],
+                [41.417109957, 27.80721997]
+            ],
+            "resultLabelCoordinate": [41.10023923, 29.10704432],
+            "2020": {
+                "capacity": 50,
+                "outofservice": false},
+            "2021": {
+                "capacity": 100,
+                "outofservice": false},
+            "2025": {
+                "capacity": 150,
+                "outofservice": false},
+            "2027": {
+                "capacity": 200,
+                "outofservice": false},
+            "2030": {
+                "capacity": 9813,
+                "outofservice": false},
+            "2032": {
+                "capacity": 300,
+                "outofservice": false}            
+        },
+        {
+            "id": 2,
+            "from_id": 6,
+            "to_id": 3,
+            "from":"Middle Anatolia",
+            "to":"North West Anatolia",
+            "name": "Middle Anatolia - North West Anatolia",
+            "coordinates": [
+                [39.810733247, 32.808206144],
+                [40.783368512, 30.406868672]
+            ],
+            "resultLabelCoordinate": [40.29705088,31.60753741],
+            "2020": {
+                "capacity": 50,
+                "outofservice": false},
+            "2021": {
+                "capacity": 100,
+                "outofservice": false},
+            "2025": {
+                "capacity": 150,
+                "outofservice": false},
+            "2027": {
+                "capacity": 200,
+                "outofservice": false},
+            "2030": {
+                "capacity": 11652,
+                "outofservice": false},
+            "2032": {
+                "capacity": 300,
+                "outofservice": false}            
+        },
+        {
+            "id": 3,
+            "from_id": 7,
+            "to_id": 3,
+            "from":"West Mediterranean",
+            "to":"North West Anatolia",
+            "name": "West Mediterranean - North West Anatolia",
+            "coordinates": [
+                [37.003313111, 31.2722423484],
+                [40.783368512, 30.406868672]
+            ],
+            "resultLabelCoordinate": [38.89334081, 30.83955551],
+            "2020": {
+                "capacity": 50,
+                "outofservice": false},
+            "2021": {
+                "capacity": 100,
+                "outofservice": false},
+            "2025": {
+                "capacity": 150,
+                "outofservice": false},
+            "2027": {
+                "capacity": 200,
+                "outofservice": false},
+            "2030": {
+                "capacity": 3741,
+                "outofservice": false},
+            "2032": {
+                "capacity": 300,
+                "outofservice": false}            
+        },
+        {
+            "id": 4,
+            "from_id": 2,
+            "to_id": 3,
+            "from":"West Anatolia",
+            "to":"North West Anatolia",
+            "name": "West Anatolia - North West Anatolia",
+            "coordinates": [
+                [38.429138971, 27.225884505],
+                [40.783368512, 30.406868672]
+            ],
+            "resultLabelCoordinate": [39.60625374, 28.81637659],
+            "2020": {
+                "capacity": 50,
+                "outofservice": false},
+            "2021": {
+                "capacity": 100,
+                "outofservice": false},
+            "2025": {
+                "capacity": 150,
+                "outofservice": false},
+            "2027": {
+                "capacity": 200,
+                "outofservice": false},
+            "2030": {
+                "capacity": 6154,
+                "outofservice": false},
+            "2032": {
+                "capacity": 300,
+                "outofservice": false}            
+        },
+        {
+            "id": 5,
+            "from_id": 4,
+            "to_id": 3,
+            "from":"Middle Black Sea",
+            "to":"North West Anatolia",
+            "name": "Middle Black Sea - North West Anatolia",
+            "coordinates": [
+                [41.236538709, 36.003816036],
+                [40.783368512, 30.406868672]
+            ],
+            "resultLabelCoordinate": [41.00995361, 33.20534235],
+            "2020": {
+                "capacity": 50,
+                "outofservice": false},
+            "2021": {
+                "capacity": 100,
+                "outofservice": false},
+            "2025": {
+                "capacity": 150,
+                "outofservice": false},
+            "2027": {
+                "capacity": 200,
+                "outofservice": false},
+            "2030": {
+                "capacity": 4536,
+                "outofservice": false},
+            "2032": {
+                "capacity": 300,
+                "outofservice": false}            
+        },
+        {
+            "id": 6,
+            "from_id": 2,
+            "to_id": 1,
+            "from":"West Anatolia",
+            "to":"Thrace (TRAKYA)",
+            "name": "West Anatolia - Thrace (TRAKYA)",
+            "coordinates": [
+                [38.429138971, 27.225884505],
+                [41.417109957, 27.80721997]
+            ],
+            "resultLabelCoordinate": [39.92312446, 27.51655224],
+            "2020": {
+                "capacity": 50,
+                "outofservice": false},
+            "2021": {
+                "capacity": 100,
+                "outofservice": false},
+            "2025": {
+                "capacity": 150,
+                "outofservice": false},
+            "2027": {
+                "capacity": 200,
+                "outofservice": false},
+            "2030": {
+                "capacity": 10060,
+                "outofservice": false},
+            "2032": {
+                "capacity": 300,
+                "outofservice": false}            
+        },
+        {
+            "id": 7,
+            "from_id": 8,
+            "to_id": 5,
+            "from":"Southeastern Anatolia",
+            "to":"Eastern Anatolia",
+            "name": "Southeastern Anatolia - Eastern Anatolia",
+            "coordinates": [
+                [38.691536124, 39.212166437],
+                [39.933961061, 41.280893375]
+            ],
+            "resultLabelCoordinate": [39.31274859, 40.24652991],
+            "2020": {
+                "capacity": 50,
+                "outofservice": false},
+            "2021": {
+                "capacity": 100,
+                "outofservice": false},
+            "2025": {
+                "capacity": 150,
+                "outofservice": false},
+            "2027": {
+                "capacity": 200,
+                "outofservice": false},
+            "2030": {
+                "capacity": 9764,
+                "outofservice": false},
+            "2032": {
+                "capacity": 300,
+                "outofservice": false}            
+        },
+        {
+            "id": 8,
+            "from_id": 5,
+            "to_id": 4,
+            "from": "Eastern Anatolia",
+            "to": "Middle Black Sea",
+            "name": "Eastern Anatolia - Middle Black Sea",
+            "coordinates": [
+                [39.933961061, 41.280893375],
+                [41.236538709, 36.003816036]
+            ],
+            "resultLabelCoordinate": [40.58524989, 38.64235471],
+            "2020": {
+                "capacity": 50,
+                "outofservice": false},
+            "2021": {
+                "capacity": 100,
+                "outofservice": false},
+            "2025": {
+                "capacity": 150,
+                "outofservice": false},
+            "2027": {
+                "capacity": 200,
+                "outofservice": false},
+            "2030": {
+                "capacity": 3784,
+                "outofservice": false},
+            "2032": {
+                "capacity": 300,
+                "outofservice": false}            
+        },
+        {
+            "id": 9,
+            "from_id": 8,
+            "to_id": 6,
+            "from":"Southeastern Anatolia",
+            "to":"Middle Anatolia",
+            "name": "Southeastern Anatolia - Middle Anatolia",
+            "coordinates": [
+                [38.691536124, 39.212166437],
+                [39.810733247, 32.808206144]
+            ],
+            "resultLabelCoordinate": [39.25113469, 36.01018629],
+            "2020": {
+                "capacity": 50,
+                "outofservice": false},
+            "2021": {
+                "capacity": 100,
+                "outofservice": false},
+            "2025": {
+                "capacity": 150,
+                "outofservice": false},
+            "2027": {
+                "capacity": 200,
+                "outofservice": false},
+            "2030": {
+                "capacity": 12033,
+                "outofservice": false},
+            "2032": {
+                "capacity": 300,
+                "outofservice": false}            
+        },
+        {
+            "id": 10,
+            "from_id": 7,
+            "to_id": 6,
+            "from":"West Mediterranean",
+            "to":"Middle Anatolia",
+            "name": "West Mediterranean - Middle Anatolia",
+            "coordinates": [
+                [37.003313111, 31.2722423484],
+                [39.810733247, 32.808206144]
+            ],
+            "resultLabelCoordinate": [38.40702318, 32.04022425],
+            "2020": {
+                "capacity": 50,
+                "outofservice": false},
+            "2021": {
+                "capacity": 100,
+                "outofservice": false},
+            "2025": {
+                "capacity": 150,
+                "outofservice": false},
+            "2027": {
+                "capacity": 200,
+                "outofservice": false},
+            "2030": {
+                "capacity": 7786,
+                "outofservice": false},
+            "2032": {
+                "capacity": 300,
+                "outofservice": false}            
+        },
+        {
+            "id": 11,
+            "from_id": 4,
+            "to_id": 6,
+            "from": "Middle Black Sea",
+            "to":"Middle Anatolia",
+            "name": "Middle Black Sea - Middle Anatolia",
+            "coordinates": [
+                [41.236538709, 36.003816036],
+                [39.810733247, 32.808206144]
+            ],
+            "resultLabelCoordinate": [40.52363598, 34.40601109],
+            "2020": {
+                "capacity": 50,
+                "outofservice": false},
+            "2021": {
+                "capacity": 100,
+                "outofservice": false},
+            "2025": {
+                "capacity": 150,
+                "outofservice": false},
+            "2027": {
+                "capacity": 200,
+                "outofservice": false},
+            "2030": {
+                "capacity": 8696,
+                "outofservice": false},
+            "2032": {
+                "capacity": 300,
+                "outofservice": false}            
+        },
+        {
+            "id": 12,
+            "from_id": 9,
+            "to_id": 6,
+            "from":"East Mediterranean",
+            "to":"Middle Anatolia",
+            "name": "East Mediterranean - Middle Anatolia",
+            "coordinates": [
+                [37.003663451, 35.324724016],
+                [39.810733247, 32.808206144]
+            ],
+            "resultLabelCoordinate": [38.40719835, 34.06646508],
+            "2020": {
+                "capacity": 50,
+                "outofservice": false},
+            "2021": {
+                "capacity": 100,
+                "outofservice": false},
+            "2025": {
+                "capacity": 150,
+                "outofservice": false},
+            "2027": {
+                "capacity": 200,
+                "outofservice": false},
+            "2030": {
+                "capacity": 12591,
+                "outofservice": false},
+            "2032": {
+                "capacity": 300,
+                "outofservice": false}            
+        },
+        {
+            "id": 13,
+            "from_id": 8,
+            "to_id": 4,
+            "from":"Southeastern Anatolia",
+            "to":"Middle Black Sea",
+            "name": "Southeastern Anatolia - Middle Black Sea",
+            "coordinates": [
+                [38.691536124, 39.212166437],
+                [41.236538709, 36.003816036]
+            ],
+            "resultLabelCoordinate": [39.96403742, 37.60799124],
+            "2020": {
+                "capacity": 50,
+                "outofservice": false},
+            "2021": {
+                "capacity": 100,
+                "outofservice": false},
+            "2025": {
+                "capacity": 150,
+                "outofservice": false},
+            "2027": {
+                "capacity": 200,
+                "outofservice": false},
+            "2030": {
+                "capacity": 1880,
+                "outofservice": false},
+            "2032": {
+                "capacity": 300,
+                "outofservice": false}            
+        },
+        {
+            "id": 14,
+            "from_id": 9,
+            "to_id": 8,
+            "from":"East Mediterranean",
+            "to":"Southeastern Anatolia",
+            "name": "East Mediterranean - Southeastern Anatolia",
+            "coordinates": [
+                [37.003663451, 35.324724016],
+                [38.691536124, 39.212166437]
+            ],
+            "resultLabelCoordinate": [37.84759979, 37.26844523],
+            "2020": {
+                "capacity": 50,
+                "outofservice": false},
+            "2021": {
+                "capacity": 100,
+                "outofservice": false},
+            "2025": {
+                "capacity": 150,
+                "outofservice": false},
+            "2027": {
+                "capacity": 200,
+                "outofservice": false},
+            "2030": {
+                "capacity": 8428,
+                "outofservice": false},
+            "2032": {
+                "capacity": 300,
+                "outofservice": false}            
+        },
+        {
+            "id": 15,
+            "from_id": 8,
+            "to_id": 2,
+            "from":"West Mediterranean",
+            "to": "West Anatolia",
+            "name": "West Mediterranean - West Anatolia",
+            "coordinates": [
+                [37.003313111, 31.2722423484],
+                [38.429138971, 27.225884505]
+            ],
+            "resultLabelCoordinate": [37.71622604, 29.24906343],
+            "2020": {
+                "capacity": 50,
+                "outofservice": false},
+            "2021": {
+                "capacity": 100,
+                "outofservice": false},
+            "2025": {
+                "capacity": 150,
+                "outofservice": false},
+            "2027": {
+                "capacity": 200,
+                "outofservice": false},
+            "2030": {
+                "capacity": 6142,
+                "outofservice": false},
+            "2032": {
+                "capacity": 300,
+                "outofservice": false}            
+        },
+        {
+            "id": 16,
+            "from_id": 9,
+            "to_id": 7,
+            "from":"East Mediterranean",
+            "to":"West Mediterranean",
+            "name": "East Mediterranean - West Mediterranean",
+            "coordinates": [
+                [37.003663451, 35.324724016],
+                [37.003313111, 31.2722423484]
+            ],
+            "resultLabelCoordinate": [37.00348828, 33.29848318],
+            "2020": {
+                "capacity": 50,
+                "outofservice": false},
+            "2021": {
+                "capacity": 100,
+                "outofservice": false},
+            "2025": {
+                "capacity": 150,
+                "outofservice": false},
+            "2027": {
+                "capacity": 200,
+                "outofservice": false},
+            "2030": {
+                "capacity": 6808,
+                "outofservice": false},
+            "2032": {
+                "capacity": 300,
+                "outofservice": false}            
+        }
+    ] 
+}

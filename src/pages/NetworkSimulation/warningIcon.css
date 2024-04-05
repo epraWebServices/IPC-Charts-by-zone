@@ -1,0 +1,24 @@
+.WarningIcon{
+    background-image: url("./warning-5-48.png");
+    width: 30px;
+    height: 30px;
+    background-size: 30px 30px;
+    top: -35px;
+    left: 0px;
+}
+.WarningIcon1{
+    background-image: url("./warning-5-48.png");
+    width: 30px;
+    height: 30px;
+    background-size: 30px 30px;
+    top: 0px;
+    left: -36px;
+}
+.WarningIcon2{
+    background-image: url("./warning-5-48.png");
+    width: 30px;
+    height: 30px;
+    background-size: 30px 30px;
+    top: 0px;
+    left: 36px;
+}

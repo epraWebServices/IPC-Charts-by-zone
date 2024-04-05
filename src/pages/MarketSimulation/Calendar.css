@@ -1,0 +1,99 @@
+
+  .row {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    background-color: rgba(207, 174, 235, 0.2);
+  }
+  .row2 {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    background-color: rgba(207, 174, 235, 0.2);
+  }
+  .calendar {
+    display: block;
+    position: relative;
+    width: 100%;
+    background: #fff;
+    border: 2px solid gray;
+  }
+  
+
+  .calendar .body .cell {
+    padding-top: 0.2em;
+    position: relative;
+    height: 2em;
+    border-right: 1px solid gray;
+    overflow: hidden;
+    cursor: pointer !important;
+    background: #fff;
+    transition: 0.25s ease-out;
+    font-size: 1em;
+    text-align: center;
+    background-color: rgba(207, 174, 235, 0.2);
+  }
+  
+  .calendar .body .cell2 {
+    position: relative;
+    height: 2em;
+    border-right: 2px solid gray;
+    overflow:hidden;
+    background: #fff;
+    transition: 0.25s ease-out;
+    font-size: 1em;
+    text-align: center;
+    background-color: rgba(207, 174, 235, 0.2);
+  }
+  
+  .calendar .body .selected {
+    border:none;
+    border-right: 1px solid gray;
+    height: 2em;
+    width: 2em;
+    background-color: rgb(122, 247, 236);
+    border-radius: 0%;
+    display: inline-block;
+    
+  }
+  .calendar .body .row {
+    border-bottom: 2px solid gray;
+  }
+
+  .calendar .body .row2 {
+    border-bottom: none;
+  }
+  .calendar .body .cell:last-child {
+    border-right: none;
+  }
+  
+  .calendar .body .cell .number {
+    font-size: 80%;
+    font-weight: 500;
+  }
+  .calendar .body .cell2 .season {
+    font-size: 80%;
+    font-weight: 700;
+  }
+
+  .calendar .body .disabled {
+    color: #ccc;
+    pointer-events: none;
+  }
+  
+  .calendar .body .col {
+    flex-grow: 0;
+    flex-basis: calc((100% - (100% / 7))/13);
+    width: calc((100% - (100% / 7))/13);
+  }
+  .calendar .body .col:first-child {
+    flex-grow: 0;
+    flex-basis: calc(100% / 7);
+    width: calc(100% / 7);
+  }

@@ -1,0 +1,265 @@
+{
+    "buses": [
+        {
+            "id": 1,
+            "name": "Thrace (TRAKYA)",
+            "center": [41.417109957, 27.80721997],
+            "ThermalGenerator": {
+                "coordinate": [41.68766317, 27.032538776]
+            },
+            "RESGenerator": {
+                "coordinate": [42.004676919, 27.54836691]
+            },
+            "Load": {
+                "coordinate": [42.014258869, 28.24473489]
+            },
+            "natural_gas": 1,
+            "hard_coal": 2,
+            "import_coal": 3,
+            "lignite": 4,
+            "hydro_dam": 5,
+            "hydro_ror": 6,
+            "wind": 7,
+            "solar": 8,
+            "geothermal" : 9,
+            "biomass": 10,
+            "nuclear": 11,
+            "entsoe": 12,
+            "georgia": 13,
+            "other": 14,
+            "load": 15
+        },
+        {
+            "id": 2,
+            "name": "West Anatolia",
+            "center": [38.429138971, 27.225884505],
+            "ThermalGenerator": {
+                "coordinate": [38.411398408, 26.104048136]
+            },
+            "RESGenerator": {
+                "coordinate": [38.006081817, 26.439336423]
+            },
+            "Load": {
+                "coordinate": [37.774718226, 27.063595293]
+            },
+            "natural_gas": 1,
+            "hard_coal": 2,
+            "import_coal": 3,
+            "lignite": 4,
+            "hydro_dam": 5,
+            "hydro_ror": 6,
+            "wind": 7,
+            "solar": 8,
+            "geothermal" : 9,
+            "biomass": 10,
+            "nuclear": 11,
+            "entsoe": 12,
+            "georgia": 13,
+            "other": 14,
+            "load": 15
+        },
+        {
+            "id": 3,
+            "name": "North West Anatolia",
+            "center": [40.783368512, 30.406868672],
+            "ThermalGenerator": {
+                "coordinate": [41.531663121, 30.07956984]
+            },
+            "RESGenerator": {
+                "coordinate": [41.588628021, 30.706745944]
+            },
+            "Load": {
+                "coordinate": [41.44645602, 31.236538064]
+            },
+            "natural_gas": 1,
+            "hard_coal": 2,
+            "import_coal": 3,
+            "lignite": 4,
+            "hydro_dam": 5,
+            "hydro_ror": 6,
+            "wind": 7,
+            "solar": 8,
+            "geothermal" : 9,
+            "biomass": 10,
+            "nuclear": 11,
+            "entsoe": 12,
+            "georgia": 13,
+            "other": 14,
+            "load": 15
+        },
+        {
+            "id": 4,
+            "name": "Middle Black Sea",
+            "center": [41.236538709, 36.003816036],
+            "ThermalGenerator": {
+                "coordinate": [41.930445381, 35.564557391]
+            },
+            "RESGenerator": {
+                "coordinate": [41.997566938, 36.299612481]
+            },
+            "Load": {
+                "coordinate": [41.71903171, 36.879919131]
+            },
+            "natural_gas": 1,
+            "hard_coal": 2,
+            "import_coal": 3,
+            "lignite": 4,
+            "hydro_dam": 5,
+            "hydro_ror": 6,
+            "wind": 7,
+            "solar": 8,
+            "geothermal" : 9,
+            "biomass": 10,
+            "nuclear": 11,
+            "entsoe": 12,
+            "georgia": 13,
+            "other": 14,
+            "load": 15
+        },
+        {
+            "id": 5,
+            "name": "Eastern Anatolia",
+            "center": [39.933961061, 41.280893375],
+            "ThermalGenerator": {
+                "coordinate": [40.365407166, 42.065679069]
+            },
+            "RESGenerator": {
+                "coordinate": [39.917804803, 42.213912732]
+            },
+            "Load": {
+                "coordinate": [39.455813239, 42.065679069]
+            },
+            "natural_gas": 1,
+            "hard_coal": 2,
+            "import_coal": 3,
+            "lignite": 4,
+            "hydro_dam": 5,
+            "hydro_ror": 6,
+            "wind": 7,
+            "solar": 8,
+            "geothermal" : 9,
+            "biomass": 10,
+            "nuclear": 11,
+            "entsoe": 12,
+            "georgia": 13,
+            "other": 14,
+            "load": 15
+        },
+        {
+            "id": 6,
+            "name": "Middle Anatolia",
+            "center": [39.810733247, 32.808206144],
+            "ThermalGenerator": {
+                "coordinate": [40.496848646, 32.547898418]
+            },
+            "RESGenerator": {
+                "coordinate": [40.512557202, 33.088746702]
+            },
+            "Load": {
+                "coordinate": [39.597574198, 32.121833087]
+            },
+            "natural_gas": 1,
+            "hard_coal": 2,
+            "import_coal": 3,
+            "lignite": 4,
+            "hydro_dam": 5,
+            "hydro_ror": 6,
+            "wind": 7,
+            "solar": 8,
+            "geothermal" : 9,
+            "biomass": 10,
+            "nuclear": 11,
+            "entsoe": 12,
+            "georgia": 13,
+            "other": 14,
+            "load": 15
+        },
+        {
+            "id": 7,
+            "name": "West Mediterranean",
+            "center": [37.003313111, 31.2722423484],
+            "ThermalGenerator": {
+                "coordinate": [36.611202572, 30.475691567]
+            },
+            "RESGenerator": {
+                "coordinate": [36.435028225, 31.055998217]
+            },
+            "Load": {
+                "coordinate": [36.466146961, 31.726574791]
+            },
+            "natural_gas": 1,
+            "hard_coal": 2,
+            "import_coal": 3,
+            "lignite": 4,
+            "hydro_dam": 5,
+            "hydro_ror": 6,
+            "wind": 7,
+            "solar": 8,
+            "geothermal" : 9,
+            "biomass": 10,
+            "nuclear": 11,
+            "entsoe": 12,
+            "georgia": 13,
+            "other": 14,
+            "load": 15
+        },
+        {
+            "id": 8,
+            "name": "East Mediterranean",
+            "center": [37.003663451, 35.324724016],
+            "ThermalGenerator": {
+                "coordinate": [36.383135929, 34.795752185]
+            },
+            "RESGenerator": {
+                "coordinate": [36.372753311, 35.505015868]
+            },
+            "Load": {
+                "coordinate": [36.66294217, 36.072426815]
+            },
+            "natural_gas": 1,
+            "hard_coal": 2,
+            "import_coal": 3,
+            "lignite": 4,
+            "hydro_dam": 5,
+            "hydro_ror": 6,
+            "wind": 7,
+            "solar": 8,
+            "geothermal" : 9,
+            "biomass": 10,
+            "nuclear": 11,
+            "entsoe": 12,
+            "georgia": 13,
+            "other": 14,
+            "load": 15
+        },
+        {
+            "id": 9,
+            "name": "Southeastern Anatolia",
+            "center": [38.691536124, 39.212166437],
+            "ThermalGenerator": {
+                "coordinate": [38, 39.9]
+            },
+            "RESGenerator": {
+                "coordinate": [37.8, 39.2]
+            },
+            "Load": {
+                "coordinate": [38.5, 40.4]
+            },
+            "natural_gas": 1,
+            "hard_coal": 2,
+            "import_coal": 3,
+            "lignite": 4,
+            "hydro_dam": 5,
+            "hydro_ror": 6,
+            "wind": 7,
+            "solar": 8,
+            "geothermal" : 9,
+            "biomass": 10,
+            "nuclear": 11,
+            "entsoe": 12,
+            "georgia": 13,
+            "other": 14,
+            "load": 15
+        }
+    ] 
+}

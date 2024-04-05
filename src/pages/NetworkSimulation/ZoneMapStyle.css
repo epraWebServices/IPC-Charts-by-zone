@@ -1,0 +1,13 @@
+
+#legend.MuiTableCell-root{
+    padding: 8px !important; 
+    font-size: 1rem !important;
+    border-bottom: none !important
+}
+
+#legend .p-accordion .p-accordion-content{
+    background-color: rgba(233, 233, 233, 0.5);
+}
+#legend .p-accordion .p-accordion-header:not(.p-disabled) .p-accordion-header-link:focus{
+    box-shadow: none;
+}

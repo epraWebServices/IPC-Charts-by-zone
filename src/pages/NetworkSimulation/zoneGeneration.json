@@ -1,0 +1,473 @@
+{
+    "data":
+    {
+        "2020":
+        {
+            "Trakya Yük Tevzi İşletme Müdürlüğü - İstanbul":
+            {
+                "Natural Gas": 4313.731, 
+                "Hydro (Dam)": 0,
+                "Hydro (RoR)": 0,
+                "Hard Coal": 0,
+                "Import Coal": 0,
+                "Lignite": 0,
+                "Geothermal": 0,
+                "Biomass": 123.9244524,             
+                "Solar": 0,
+                "Wind": 140000,
+                "Nuclear": 0,
+                "ENTSOE": 1000,
+                "Georgia": 0,
+                "Other": 0 
+            },
+        "Batı Anadolu Yük Tevzi İşletme Müdürlüğü - İzmir":
+            {
+                "Natural Gas": 5135.988, 
+                "Hydro (Dam)": 377.19,
+                "Hydro (RoR)": 0,
+                "Hard Coal": 0,
+                "Import Coal": 3315,
+                "Lignite": 3882.01,
+                "Geothermal": 1494.521,
+                "Biomass": 137.7588706,             
+                "Solar": 0,
+                "Wind": 560000,
+                "Nuclear": 0,
+                "ENTSOE": 0,
+                "Georgia": 0,
+                "Other": 60.92607578
+            },
+        "Kuzeybatı Anadolu Yük Tevzi İşletme Müdürlüğü - Sakarya":
+            {
+                "Natural Gas": 6369.773,
+                "Hydro (Dam)": 259.268,
+                "Hydro (RoR)": 0,
+                "Hard Coal": 442.1,
+                "Import Coal": 3125,
+                "Lignite": 1815.58,
+                "Geothermal": 0,
+                "Biomass": 165.957999,             
+                "Solar": 0,
+                "Wind": 75000,
+                "Nuclear": 0,
+                "ENTSOE": 0,
+                "Georgia": 0,
+                "Other": 95.36449001
+            },
+        "Orta Karadeniz Yük Tevzi İşletme Müdürlüğü - Samsun":
+            {
+                "Natural Gas": 2021.552, 
+                "Hydro (Dam)": 2955.603,
+                "Hydro (RoR)": 0,
+                "Hard Coal": 27.5,
+                "Import Coal": 0,
+                "Lignite": 457,
+                "Geothermal": 0,
+                "Biomass": 46.75466767,             
+                "Solar": 0,
+                "Wind": 70000,
+                "Nuclear": 0,
+                "ENTSOE": 0,
+                "Georgia": 0,
+                "Other": 57.31074754 
+            },
+        "Doğu Anadolu Yük Tevzi İşletme Müdürlüğü - Erzurum":
+            {
+                "Natural Gas": 306.23, 
+                "Hydro (Dam)": 2667.497,
+                "Hydro (RoR)": 0,
+                "Hard Coal": 39.2,
+                "Import Coal": 0,
+                "Lignite": 0,
+                "Geothermal": 0,
+                "Biomass": 11.77412237,             
+                "Solar": 0,
+                "Wind": 0,
+                "Nuclear": 0,
+                "ENTSOE": 0,
+                "Georgia": 1400,
+                "Other": 16.03513144 
+            },
+        "Orta Anadolu Yük Tevzi İşletme Müdürlüğü - Ankara":
+            {
+                "Natural Gas": 3062.698, 
+                "Hydro (Dam)": 1313.63,
+                "Hydro (RoR)": 0,
+                "Hard Coal": 0,
+                "Import Coal": 1.55,
+                "Lignite": 687.4,
+                "Geothermal": 0,
+                "Biomass": 138.5689415,            
+                "Solar": 0,
+                "Wind": 70000,
+                "Nuclear": 0,
+                "ENTSOE": 0,
+                "Georgia": 0,
+                "Other": 5.701380066
+            },
+        "Batı Akdeniz Yük Tevzi İşletme Müdürlüğü - Antalya":
+            {
+                "Natural Gas": 2453.422, 
+                "Hydro (Dam)": 970.543,
+                "Hydro (RoR)": 0,
+                "Hard Coal": 6.66,
+                "Import Coal": 64.617,
+                "Lignite": 0,
+                "Geothermal": 0,
+                "Biomass": 131.3461999,             
+                "Solar": 0,
+                "Wind": 40000,
+                "Nuclear": 0,
+                "ENTSOE": 0,
+                "Georgia": 0,
+                "Other": 115.913214 
+            },
+        "Güneydoğu Anadolu Yük Tevzi İşletme Müdürlüğü - Elazığ":
+            {
+                "Natural Gas": 875.124,
+                "Hydro (Dam)": 11019.718,
+                "Hydro (RoR)": 0,
+                "Hard Coal": 56.66,
+                "Import Coal": 34.7,
+                "Lignite": 2805.536,
+                "Geothermal": 0,
+                "Biomass": 61.86155266,            
+                "Solar": 0,
+                "Wind": 50000,
+                "Nuclear": 0,
+                "ENTSOE": 0,
+                "Georgia": 0,
+                "Other": 715.5231983
+            },
+        "Doğu Akdeniz Yük Tevzi İşletme Müdürlüğü - Adana":
+            {
+                "Natural Gas": 1090.646,
+                "Hydro (Dam)": 2287.329,
+                "Hydro (RoR)": 0,
+                "Hard Coal": 272.646,
+                "Import Coal": 2520,
+                "Lignite": 450,
+                "Geothermal": 0,
+                "Biomass": 51.05787644,             
+                "Solar": 0,
+                "Wind": 75000,
+                "Nuclear": 0,
+                "ENTSOE": 0,
+                "Georgia": 0,
+                "Other": 21.22576287 
+            }
+        },
+        "2025":
+        {
+            "Trakya Yük Tevzi İşletme Müdürlüğü - İstanbul":
+            {
+                "Natural Gas": 4313.731, 
+                "Hydro (Dam)": 0,
+                "Hydro (RoR)": 0,
+                "Hard Coal": 0,
+                "Import Coal": 0,
+                "Lignite": 0,
+                "Geothermal": 0,
+                "Biomass": 123.9244524,             
+                "Solar": 0,
+                "Wind": 140000,
+                "Nuclear": 0,
+                "ENTSOE": 1000,
+                "Georgia": 0,
+                "Other": 0 
+            },
+        "Batı Anadolu Yük Tevzi İşletme Müdürlüğü - İzmir":
+            {
+                "Natural Gas": 5135.988, 
+                "Hydro (Dam)": 377.19,
+                "Hydro (RoR)": 0,
+                "Hard Coal": 0,
+                "Import Coal": 3315,
+                "Lignite": 3882.01,
+                "Geothermal": 1494.521,
+                "Biomass": 137.7588706,             
+                "Solar": 0,
+                "Wind": 560000,
+                "Nuclear": 0,
+                "ENTSOE": 0,
+                "Georgia": 0,
+                "Other": 60.92607578
+            },
+        "Kuzeybatı Anadolu Yük Tevzi İşletme Müdürlüğü - Sakarya":
+            {
+                "Natural Gas": 6369.773,
+                "Hydro (Dam)": 259.268,
+                "Hydro (RoR)": 0,
+                "Hard Coal": 442.1,
+                "Import Coal": 3125,
+                "Lignite": 1815.58,
+                "Geothermal": 0,
+                "Biomass": 165.957999,             
+                "Solar": 0,
+                "Wind": 75000,
+                "Nuclear": 0,
+                "ENTSOE": 0,
+                "Georgia": 0,
+                "Other": 95.36449001
+            },
+        "Orta Karadeniz Yük Tevzi İşletme Müdürlüğü - Samsun":
+            {
+                "Natural Gas": 2021.552, 
+                "Hydro (Dam)": 2955.603,
+                "Hydro (RoR)": 0,
+                "Hard Coal": 27.5,
+                "Import Coal": 0,
+                "Lignite": 457,
+                "Geothermal": 0,
+                "Biomass": 46.75466767,             
+                "Solar": 0,
+                "Wind": 70000,
+                "Nuclear": 0,
+                "ENTSOE": 0,
+                "Georgia": 0,
+                "Other": 57.31074754 
+            },
+        "Doğu Anadolu Yük Tevzi İşletme Müdürlüğü - Erzurum":
+            {
+                "Natural Gas": 306.23, 
+                "Hydro (Dam)": 2667.497,
+                "Hydro (RoR)": 0,
+                "Hard Coal": 39.2,
+                "Import Coal": 0,
+                "Lignite": 0,
+                "Geothermal": 0,
+                "Biomass": 11.77412237,             
+                "Solar": 0,
+                "Wind": 0,
+                "Nuclear": 0,
+                "ENTSOE": 0,
+                "Georgia": 1400,
+                "Other": 16.03513144 
+            },
+        "Orta Anadolu Yük Tevzi İşletme Müdürlüğü - Ankara":
+            {
+                "Natural Gas": 3062.698, 
+                "Hydro (Dam)": 1313.63,
+                "Hydro (RoR)": 0,
+                "Hard Coal": 0,
+                "Import Coal": 1.55,
+                "Lignite": 687.4,
+                "Geothermal": 0,
+                "Biomass": 138.5689415,            
+                "Solar": 0,
+                "Wind": 70000,
+                "Nuclear": 0,
+                "ENTSOE": 0,
+                "Georgia": 0,
+                "Other": 5.701380066
+            },
+        "Batı Akdeniz Yük Tevzi İşletme Müdürlüğü - Antalya":
+            {
+                "Natural Gas": 2453.422, 
+                "Hydro (Dam)": 970.543,
+                "Hydro (RoR)": 0,
+                "Hard Coal": 6.66,
+                "Import Coal": 64.617,
+                "Lignite": 0,
+                "Geothermal": 0,
+                "Biomass": 131.3461999,             
+                "Solar": 0,
+                "Wind": 40000,
+                "Nuclear": 0,
+                "ENTSOE": 0,
+                "Georgia": 0,
+                "Other": 115.913214 
+            },
+        "Güneydoğu Anadolu Yük Tevzi İşletme Müdürlüğü - Elazığ":
+            {
+                "Natural Gas": 875.124,
+                "Hydro (Dam)": 11019.718,
+                "Hydro (RoR)": 0,
+                "Hard Coal": 56.66,
+                "Import Coal": 34.7,
+                "Lignite": 2805.536,
+                "Geothermal": 0,
+                "Biomass": 61.86155266,            
+                "Solar": 0,
+                "Wind": 50000,
+                "Nuclear": 0,
+                "ENTSOE": 0,
+                "Georgia": 0,
+                "Other": 715.5231983
+            },
+        "Doğu Akdeniz Yük Tevzi İşletme Müdürlüğü - Adana":
+            {
+                "Natural Gas": 1090.646,
+                "Hydro (Dam)": 2287.329,
+                "Hydro (RoR)": 0,
+                "Hard Coal": 272.646,
+                "Import Coal": 2520,
+                "Lignite": 450,
+                "Geothermal": 0,
+                "Biomass": 51.05787644,             
+                "Solar": 0,
+                "Wind": 75000,
+                "Nuclear": 0,
+                "ENTSOE": 0,
+                "Georgia": 0,
+                "Other": 21.22576287 
+            }
+        },
+        "2030":
+        {
+            "Trakya Yük Tevzi İşletme Müdürlüğü - İstanbul":
+            {
+                "Natural Gas": 4313.731, 
+                "Hydro (Dam)": 0,
+                "Hydro (RoR)": 0,
+                "Hard Coal": 0,
+                "Import Coal": 0,
+                "Lignite": 0,
+                "Geothermal": 0,
+                "Biomass": 123.9244524,             
+                "Solar": 0,
+                "Wind": 140000,
+                "Nuclear": 0,
+                "ENTSOE": 1000,
+                "Georgia": 0,
+                "Other": 0 
+            },
+        "Batı Anadolu Yük Tevzi İşletme Müdürlüğü - İzmir":
+            {
+                "Natural Gas": 5135.988, 
+                "Hydro (Dam)": 377.19,
+                "Hydro (RoR)": 0,
+                "Hard Coal": 0,
+                "Import Coal": 3315,
+                "Lignite": 3882.01,
+                "Geothermal": 1494.521,
+                "Biomass": 137.7588706,             
+                "Solar": 0,
+                "Wind": 560000,
+                "Nuclear": 0,
+                "ENTSOE": 0,
+                "Georgia": 0,
+                "Other": 60.92607578
+            },
+        "Kuzeybatı Anadolu Yük Tevzi İşletme Müdürlüğü - Sakarya":
+            {
+                "Natural Gas": 6369.773,
+                "Hydro (Dam)": 259.268,
+                "Hydro (RoR)": 0,
+                "Hard Coal": 442.1,
+                "Import Coal": 3125,
+                "Lignite": 1815.58,
+                "Geothermal": 0,
+                "Biomass": 165.957999,             
+                "Solar": 0,
+                "Wind": 75000,
+                "Nuclear": 0,
+                "ENTSOE": 0,
+                "Georgia": 0,
+                "Other": 95.36449001
+            },
+        "Orta Karadeniz Yük Tevzi İşletme Müdürlüğü - Samsun":
+            {
+                "Natural Gas": 2021.552, 
+                "Hydro (Dam)": 2955.603,
+                "Hydro (RoR)": 0,
+                "Hard Coal": 27.5,
+                "Import Coal": 0,
+                "Lignite": 457,
+                "Geothermal": 0,
+                "Biomass": 46.75466767,             
+                "Solar": 0,
+                "Wind": 70000,
+                "Nuclear": 0,
+                "ENTSOE": 0,
+                "Georgia": 0,
+                "Other": 57.31074754 
+            },
+        "Doğu Anadolu Yük Tevzi İşletme Müdürlüğü - Erzurum":
+            {
+                "Natural Gas": 306.23, 
+                "Hydro (Dam)": 2667.497,
+                "Hydro (RoR)": 0,
+                "Hard Coal": 39.2,
+                "Import Coal": 0,
+                "Lignite": 0,
+                "Geothermal": 0,
+                "Biomass": 11.77412237,             
+                "Solar": 0,
+                "Wind": 0,
+                "Nuclear": 0,
+                "ENTSOE": 0,
+                "Georgia": 1400,
+                "Other": 16.03513144 
+            },
+        "Orta Anadolu Yük Tevzi İşletme Müdürlüğü - Ankara":
+            {
+                "Natural Gas": 3062.698, 
+                "Hydro (Dam)": 1313.63,
+                "Hydro (RoR)": 0,
+                "Hard Coal": 0,
+                "Import Coal": 1.55,
+                "Lignite": 687.4,
+                "Geothermal": 0,
+                "Biomass": 138.5689415,            
+                "Solar": 0,
+                "Wind": 70000,
+                "Nuclear": 0,
+                "ENTSOE": 0,
+                "Georgia": 0,
+                "Other": 5.701380066
+            },
+        "Batı Akdeniz Yük Tevzi İşletme Müdürlüğü - Antalya":
+            {
+                "Natural Gas": 2453.422, 
+                "Hydro (Dam)": 970.543,
+                "Hydro (RoR)": 0,
+                "Hard Coal": 6.66,
+                "Import Coal": 64.617,
+                "Lignite": 0,
+                "Geothermal": 0,
+                "Biomass": 131.3461999,             
+                "Solar": 0,
+                "Wind": 40000,
+                "Nuclear": 0,
+                "ENTSOE": 0,
+                "Georgia": 0,
+                "Other": 115.913214 
+            },
+        "Güneydoğu Anadolu Yük Tevzi İşletme Müdürlüğü - Elazığ":
+            {
+                "Natural Gas": 875.124,
+                "Hydro (Dam)": 11019.718,
+                "Hydro (RoR)": 0,
+                "Hard Coal": 56.66,
+                "Import Coal": 34.7,
+                "Lignite": 2805.536,
+                "Geothermal": 0,
+                "Biomass": 61.86155266,            
+                "Solar": 0,
+                "Wind": 50000,
+                "Nuclear": 0,
+                "ENTSOE": 0,
+                "Georgia": 0,
+                "Other": 715.5231983
+            },
+        "Doğu Akdeniz Yük Tevzi İşletme Müdürlüğü - Adana":
+            {
+                "Natural Gas": 1090.646,
+                "Hydro (Dam)": 2287.329,
+                "Hydro (RoR)": 0,
+                "Hard Coal": 272.646,
+                "Import Coal": 2520,
+                "Lignite": 450,
+                "Geothermal": 0,
+                "Biomass": 51.05787644,             
+                "Solar": 0,
+                "Wind": 75000,
+                "Nuclear": 0,
+                "ENTSOE": 0,
+                "Georgia": 0,
+                "Other": 21.22576287 
+            }
+        }
+    }
+}
